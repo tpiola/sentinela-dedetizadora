@@ -1,36 +1,13 @@
-# Sentinela Saúde Ambiental
+# Repositório descontinuado
 
-**Site premium de alta conversão** para dedetizadora em Franca/SP.
+Este repositório foi **substituído** pelo projeto oficial:
 
-## Diferenciais
-- Resposta em 30 minutos
-- Laudo ANVISA
-- Garantia 90 dias
-- Atendimento 24h
-- SEO Local dominando Franca
-- Performance >90
-- Estética ultra avançada (laranja #FF6B35 + azul #2C3E50, microinterações, glassmorphism, 8K visuals)
+- [`tpiola/sentinela-saude-ambiental`](https://github.com/tpiola/sentinela-saude-ambiental)
 
-## Stack
-- HTML5 + Tailwind CSS (CDN) + Vanilla JS
-- Formulário dual (WhatsApp + FormSubmit)
-- Schema.org LocalBusiness completo
-- Sticky bar + WhatsApp flutuante + exit-intent ready
-- Mobile-first, WCAG, Core Web Vitals
+O antigo `index.html` foi removido para impedir publicação acidental de conteúdo desatualizado, telefone fictício e alegações que não pertencem à versão validada.
 
-## Como usar
-1. Abra `index.html` no navegador
-2. Ou faça deploy na Vercel (drag & drop)
-3. Substitua telefone e e-mail reais
-4. Adicione imagens do Magnific AI nas pastas `/images`
+## Fonte única
 
-## Conversão otimizada
-- Hero com CTA imediato
-- Cards de serviços com orçamento 1-clique
-- Formulário qualificado (tipo imóvel, praga, urgência, bairro)
-- Prova social + selos ANVISA
-- Sticky emergência 24h
+Toda manutenção, correção, SEO, captura de leads e publicação da Sentinela deve partir exclusivamente de `sentinela-saude-ambiental`.
 
-Pronto para campanhas Google Ads / Meta em Franca.
-
-**Geração de receita para o empresário desde o dia 1.**
+Este repositório permanece apenas para preservar o histórico e pode ser excluído definitivamente nas configurações do GitHub.
